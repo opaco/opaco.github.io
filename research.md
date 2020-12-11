@@ -1,6 +1,6 @@
 layout: page
 title: "Research"
-permalink: https://opaco.github.io/research
+permalink: /research/
 
 
 ## Welcome to the Research page
