@@ -1,8 +1,8 @@
+#---
+#layout: default
+#title: About page
+#---
 
----
-layout: default
-title: About page
----
 
 
 ### About page
