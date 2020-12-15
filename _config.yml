@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+header_pages:
+  - index.md
+  - about.md
