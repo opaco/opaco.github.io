@@ -1,4 +1,26 @@
+
+
+
+
+
 ## Welcome to GitHub Pages
+
+
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
+
+
+
 
 You can use the [editor on GitHub](https://github.com/opaco/opaco.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
