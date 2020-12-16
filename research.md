@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Research"
 permalink: /research/
-
+---
 
 ## Welcome to the Research page
 
