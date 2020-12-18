@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 title: Francisco (Paco) Holguin
 description: Theoretical astrophysicist
 
-header: ![Image](https://lsa.umich.edu/content/michigan-lsa/astro/en/people/graduate-students/opaco/jcr:content/profileImage.transform/profile_portrait/image.jpg)
+header: /images/image.jpg
 
 header_pages:
   - index.md
