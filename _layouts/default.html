@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     
-    <!-- <style>
-      img {
+    <style>
+      img.dog {
         float: left;
       }
-    </style> -->
+    </style> 
     
       
     
@@ -39,8 +39,12 @@
           <!-- <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>  -->
           
           
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}  </h1> 
-          <a> img src="https://octodex.github.com/images/jetpacktocat.png" height="200" </a>
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }} 
+          <img
+               class="dog" src="https://octodex.github.com/images/jetpacktocat.png" height="200"> 
+          
+          </h1> 
+
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2> 
 
             
