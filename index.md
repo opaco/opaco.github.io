@@ -15,7 +15,7 @@ Introduction text
 [About me](https://opaco.github.io/about/)
 
 
-![Image](https://lsa.umich.edu/content/michigan-lsa/astro/en/people/graduate-students/opaco/jcr:content/profileImage.transform/profile_portrait/image.jpg)
+![Image](images/image.jpg)
 
 ### Research 
 
