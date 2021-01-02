@@ -20,7 +20,7 @@ I am currently a graduate student in the Department of Astronomy at the Universi
 
 
 
-For my PhD research, working in a group led by Mateusz Ruszkowski, I study the processes that shape the thermal and dynamical structure of galaxies, specifically the effect of cosmic rays.  Additionally, I examine the observationally relevant predictions made from these simulations, and how these predictions change based on assumptions made in post-processing.
+For my PhD research, working in a group led by Mateusz Ruszkowski, I study the processes that shape the thermal and dynamical structure of galaxies, specifically the effect of cosmic rays.  Additionally, I examine the observationally relevant predictions made from these simulations, and how these predictions change based on assumptions made in post-processing. Please visit the research page to learn more.
 
 
 
