@@ -21,7 +21,7 @@ I am currently a graduate student in the Department of Astronomy at the Universi
 
 
 
-For my PhD research, I have studied the processes that shape the thermal and dynamical structure of galaxies,  specifically the effect of cosmic rays.  Additionally, I have explored the observationally relevant predictions made from these simulations, and how these predictions change based on assumptions made in post-processing.
+I have studied the processes that shape the thermal and dynamical structure of galaxies,  specifically the effect of cosmic rays.  Additionally, I have explored the observationally relevant predictions made from these simulations, and how these predictions change based on assumptions made in post-processing.
 
 
 
