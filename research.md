@@ -33,6 +33,6 @@ My work [insert link here] implments a model[Lazarian link here]  of cosmic ray 
 
 
 
-## Machine learning and numerics
+### Machine learning and numerics
 
 
