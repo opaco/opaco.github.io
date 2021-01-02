@@ -15,7 +15,7 @@ Introduction text
 [About me](https://opaco.github.io/about/)
 
 
-![Image](images/image.jpg)
+
 
 ### Research 
 
