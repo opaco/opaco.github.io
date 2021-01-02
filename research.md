@@ -6,12 +6,15 @@ permalink: /research/
 
 ## Research
 
-### Simulations and observational predictions
+### Simulations of galaxies
 
-### Galaxies, cosmic rays, and turbulence
+#### Simulations and observational predictions
+
+#### Galaxies, cosmic rays, and turbulence
 
 
 
-### Other
+
+#### Other
 
 
