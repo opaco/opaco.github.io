@@ -25,6 +25,6 @@ My work [insert link here] implments a model[Lazarian link here]  of cosmic ray 
 [insert image here]
 
 
-#### Other
+#### Machine learning and numerics
 
 
