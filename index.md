@@ -9,7 +9,7 @@ navigation_weight: 1
 
 ## Welcome to my website
 
-I am currently a graduate student in the Department of Astronomy at the University of Michigan-Ann Arbor. I am interested using computational methods to study a broad range of pheneomena.
+I am currently a graduate student in the Department of Astronomy at the University of Michigan-Ann Arbor. I am interested using computational methods to study a broad range of pheneomena. This website presents a summary of my research and also outside aspects of my life.
 
 
 [About me](https://opaco.github.io/about/)
