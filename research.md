@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-## Research
+# Research
 
 ### Simulations of galaxies
 
