@@ -26,6 +26,13 @@ My work [insert link here] implments a model[Lazarian link here]  of cosmic ray 
 
 ### Influence of galactic stellar radiation field in a galaxy
 
+#### Influence of stellar radiation over redshift and halo mass
+
+#### Simulations and observational predictions?
+
+
+
+
 ## Machine learning and numerics
 
 
