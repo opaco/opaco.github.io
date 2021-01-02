@@ -6,6 +6,8 @@ permalink: /research/
 
 ## Research
 
+(maybe hide each title in a clickable list)
+
 ### Simulations of galaxies
 
 
