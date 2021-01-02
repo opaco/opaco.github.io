@@ -9,7 +9,7 @@ navigation_weight: 1
 
 ## Welcome to my website
 
-Introduction text
+I am currently a graduate student in the Department of Astronomy at the University of Michigan-Ann Arbor. I am interested using computational methods to study a broad range of pheneomena.
 
 
 [About me](https://opaco.github.io/about/)
@@ -19,6 +19,9 @@ Introduction text
 
 ### Research 
 
+
+
+For my PhD research, I have studied the processes that shape the thermal and dynamical structure of galaxies. Specifically, I focused on the effect of cosmic rays.  Addiationally, I have explored the observationally relevant predictions made from these simulations, and how these predictions change based on assumptions made in post-processing.
 
 
 
