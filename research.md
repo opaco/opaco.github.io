@@ -14,6 +14,8 @@ In principle, it is possible to set up a global simluation of a disk galaxy, inc
 
 #### Simulations and observational predictions
 
+The connection between a simulation galaxy and actual observed data is an active area of research.
+
 
 #### Cosmic rays, and turbulence
 
