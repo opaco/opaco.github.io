@@ -40,7 +40,10 @@ permalink: /research/
 
 In principle, it is possible to set up a global simluation of a disk galaxy, including the dense disk and the surrounding medium, and test how different physics models change the resulting galaxy properties. However, this approach is computationally expensive, especially when investigating new physics. Instead, we can use a thin (2x2 kpc area) elongated (40 kpc tall) passing through the galactic disk. I conducted simulations using the magnetohydrodynamic (MHD) code FLASH. The simulations use a two-fluid coupled cosmic ray-MHD model, as shown in [Ruszkowski, Yang, and Zweibel 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...834..208R/abstract).
 
-
+  <p>
+  
+  </p>
+  
 
 ### Cosmic rays, and turbulence
 <details>
