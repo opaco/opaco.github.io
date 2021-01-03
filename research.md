@@ -46,8 +46,6 @@ In principle, it is possible to set up a global simluation of a disk galaxy, inc
   <summary> More info </summary>
 
 The connection between a simulation galaxy and actual observed data is an active area of research.
-
-  </summary>
   
   </details>
 
