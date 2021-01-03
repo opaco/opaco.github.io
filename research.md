@@ -62,14 +62,20 @@ My work [insert link here] implments a model[Lazarian link here]  of cosmic ray 
 
 ## Influence of galactic stellar radiation field in a galaxy
 
-### Influence of stellar radiation over redshift and halo mass
+### Influence of stellar radiation in FIRE2 halos
 <details>
   <summary> More info </summary>
+  
+  TBD
+  
 </details>
 
 ### Simulations and observational predictions?
 <details>
   <summary> More info </summary>
+  
+  TBD
+  
 </details>
 
 
