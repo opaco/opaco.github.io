@@ -59,7 +59,7 @@ Cosmic rays are high-energy charged particles, primarily single protons and elec
   
   <p>
 
-My work [insert link here] implments a model[Lazarian link here]  of cosmic ray tranpsort that varies with the turbulent properies of the ISM.  Within the streaming model of cosmic ray transport, as cosmic rays propagate through the ISM they exicte Alfven waves and these Alfven waves subsequently confine the bulk cosmic ray motion to the Alfven speed. Turbulence dissipates these confining waves (i.e turbulent damping), allowing cosmic rays to move faster relative to the gas. 
+My [work](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.1271H/abstract) implments a [model](https://ui.adsabs.harvard.edu/abs/2016ApJ...833..131L/abstract) of cosmic ray tranpsort that varies with the turbulent properies of the ISM.  Within the streaming model of cosmic ray transport, as cosmic rays propagate through the ISM they exicte Alfven waves and these Alfven waves subsequently confine the bulk cosmic ray motion to the Alfven speed. Turbulence dissipates these confining waves (i.e turbulent damping), allowing cosmic rays to move faster relative to the gas. 
 [insert image here]
 
   </p> 
