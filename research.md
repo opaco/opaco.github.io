@@ -34,7 +34,7 @@ permalink: /research/
 
 (maybe hide each title in a clickable list)
 
-<button class="collapsible"> Slab simluations of galactic disk 1 </button>
+<button class="collapsible"> Slab simluations of galactic disk </button>
 <div class="content">
   <p>
  ## Slab simluations of galactic disk
