@@ -3,15 +3,40 @@ layout: default
 title: "Research"
 permalink: /research/
 ---
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
 
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+  
 # Research
 
 
 (maybe hide each title in a clickable list)
-
-## Slab simluations of galactic disk
-
+<button class="collapsible"> ## Slab simluations of galactic disk </button>
+<div class="content">
 In principle, it is possible to set up a global simluation of a disk galaxy, including the dense disk and the surrounding medium, and test how different physics models change the resulting galaxy properties. However, this approach is computationally expensive, especially when investigating new physics. Instead, we can use a thin (2x2 kpc area) elongated (40 kpc tall) passing through the galactic disk. I conducted simulations using the magnetohydrodynamic (MHD) code FLASH. The simulations use a two-fluid coupled cosmic ray-MHD model, as shown in [insert paper here].
+</div>
 
 ### Simulations and observational predictions
 
